@@ -1,0 +1,12 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.199999 mm] for the current design rules.
+Plotted to 'E:\Project\ESP32 RST Monitoring\ESP32 RST Monitoring-F_Cu.gbr'.
+Plotted to 'E:\Project\ESP32 RST Monitoring\ESP32 RST Monitoring-B_Cu.gbr'.
+Plotted to 'E:\Project\ESP32 RST Monitoring\ESP32 RST Monitoring-F_Paste.gbr'.
+Plotted to 'E:\Project\ESP32 RST Monitoring\ESP32 RST Monitoring-B_Paste.gbr'.
+Plotted to 'E:\Project\ESP32 RST Monitoring\ESP32 RST Monitoring-F_Silkscreen.gbr'.
+Plotted to 'E:\Project\ESP32 RST Monitoring\ESP32 RST Monitoring-B_Silkscreen.gbr'.
+Plotted to 'E:\Project\ESP32 RST Monitoring\ESP32 RST Monitoring-F_Mask.gbr'.
+Plotted to 'E:\Project\ESP32 RST Monitoring\ESP32 RST Monitoring-B_Mask.gbr'.
+Plotted to 'E:\Project\ESP32 RST Monitoring\ESP32 RST Monitoring-Edge_Cuts.gbr'.
+Created Gerber job file 'E:\Project\ESP32 RST Monitoring\ESP32 RST Monitoring-job.gbrjob'.
+Info: Done.

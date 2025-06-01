@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.7*%
+%TF.CreationDate,2025-06-01T16:35:16+09:00*%
+%TF.ProjectId,ESP32 RST Monitoring,45535033-3220-4525-9354-204d6f6e6974,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.7) date 2025-06-01 16:35:16*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X107848400Y-60655200D02*
+X201295000Y-60655200D01*
+X201295000Y-118567200D01*
+X107848400Y-118567200D01*
+X107848400Y-60655200D01*
+M02*
